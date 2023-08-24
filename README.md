@@ -1,2 +1,3 @@
 # Spicy-Hut-Restaurant
-webpage using html and css
+Beginner level frontend lander page using html and css
+ Spicy hut webpage using html and css
